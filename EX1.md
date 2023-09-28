@@ -1,4 +1,4 @@
-![image](https://github.com/Sachin-vlr/G2_DBMS/assets/113497666/0ae1008e-fa7c-4659-b53d-2a3cdcbccb2b)# EXP NO 1: DATA DEFINITION LANGUGE COMMANDS IN RDBMS
+# EXP NO 1: DATA DEFINITION LANGUGE COMMANDS IN RDBMS
 
 ## AIM:
 To create a student database and execute DDL queries using SQL.
